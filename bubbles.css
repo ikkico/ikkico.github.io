@@ -203,7 +203,7 @@ a.clean:active {color: #fafafa;}
 {
   0%
   {
-    transform: translateY(100vh) scale(0);
+    transform: translateY(90vh) scale(0);
     background: #ffffff;
   }
   100%
