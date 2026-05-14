@@ -39,7 +39,7 @@ a.clean:active {color: #fafafa;}
 
 .bubbles
 {
-  position: relative;
+  position: absolute;
   display: flex;
   height: 60vh;
 }
